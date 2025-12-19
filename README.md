@@ -319,6 +319,15 @@ We welcome contributors who share our vision of authentic digital connections!
 - Recommendation engines
 - Predictive analytics
 
+## Contributors
+
+### Jaisica Vijayran
+
+1. Implemented **voice-based sentiment analysis** using speech recognition to classify emotions such as *happy, sad, excited, and neutral*, with corresponding mood-based visualizations.
+2. Configured and integrated **Tailwind CSS v3** with PostCSS and Autoprefixer to enhance UI consistency, responsiveness, and maintainability.
+3. Developed **seasonal butterfly animations** aligned with special events and project milestones to improve visual engagement.
+
+
 ### 📋 Development Workflow
 1. Fork the repository
 2. Create feature branch: `git checkout -b feature/amazing-connection`
